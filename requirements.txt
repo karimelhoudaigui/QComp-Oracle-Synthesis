@@ -1,0 +1,8 @@
+ipython
+jupyter
+matplotlib
+numpy
+qiskit
+qiskit-aer
+scipy
+sympy
